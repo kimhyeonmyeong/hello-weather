@@ -6,19 +6,26 @@ https://kimsmartblog.tistory.com/
 
 블로그 ReactNative 파트에 기능별로 정리되어있습니다.
 
+***
 
 ## 강의 제목 및 출처
 
 https://nomadcoders.co/react-native-fundamentals
 Web front, backend Full stack Nomad 선생님
 
+***
+
 ## 목차
 
 ![image](https://user-images.githubusercontent.com/44837403/114274864-5002e300-9a5b-11eb-9452-f132693fe5d6.png)
 ![image](https://user-images.githubusercontent.com/44837403/114274871-55602d80-9a5b-11eb-8a83-6d4d56fd7bda.png)
 
+***
+
 ## 진행 기간
 2020-07-27 ~ 2020-07-31
+
+***
 
 ## 프로그램 기능
 
@@ -47,16 +54,20 @@ https://docs.expo.io/guides/icons/
 expo icon 에서 expo init에서 기본적으로 깔리는 package를 사용하였다. 위 참고링크를 참고해서 보면 된다. 배치할때에는 flex로 공간할당을 생각하면서 하였고, 이 때 container를 두개의 halfcontainer로 나누어서 사용을 하였다.
 
 
+***
+
 #### 출력 화면 
 
 ![image](https://user-images.githubusercontent.com/44837403/114275486-99543200-9a5d-11eb-9565-e37bee08a874.png)
 
 
+***
+
 ## 느낀점
 
  React Native앱을 만들고자 그동안 공부했던 VanliaJS, ReactJS들이 기초가 되면서 어느 정도 수월하게 진행되었던 것 같습니다. 본격적인
  ReactNative앱을 만들기 전에 환경 setting을 하고 어떤식으로 앱이 만들어지는지에 대해서 알 수 있었습니다. 확실히 모바일 어플로 확인을 하니
-보람이 느껴지는 순가이였습니다.
+보람이 느껴지는 순간이였습니다.
 
 
 
