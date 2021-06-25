@@ -26,7 +26,7 @@ Web front, backend Full stack Nomad 선생님
 
 #### Loading Screen
 
-![image](https://user-images.githubusercontent.com/44837403/114275338-28ad1580-9a5d-11eb-894e-0c050d315556.png)
+![image](https://user-images.githubusercontent.com/44837403/123379898-b793ed80-d5c9-11eb-95e3-5cd2a12c9f40.png)
 
 Loading Component를 만들고 App.js의 render 부분에서 실행해줍니다.
 
@@ -51,7 +51,7 @@ expo icon 에서 expo init에서 기본적으로 깔리는 package를 사용하�
 
 #### 프로그램 동작
 
-![image](https://user-images.githubusercontent.com/44837403/114275486-99543200-9a5d-11eb-9565-e37bee08a874.png)
+![image](https://user-images.githubusercontent.com/44837403/123379856-a9de6800-d5c9-11eb-9b50-1ff952a047d6.png)
 
 
 ## 느낀점
